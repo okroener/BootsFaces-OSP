@@ -1,4 +1,4 @@
-Preparations for the Build.
+ Preparations for the Build.
 --------------------------
 1) Install Node js
    *buntu/debian : sudo apt-get install nodejs
